@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Mac system file
+.DS_Store
+
 # Raw Data
 raw_data/
 
