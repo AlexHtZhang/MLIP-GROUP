@@ -109,13 +109,13 @@ class Encode:
 		# lazy coding style
 		np.savetxt(output_folder_path + 'train_idx.txt', np.array(train), fmt='%d')
 		image_names = []
-		for image_idx in test:
+		for image_idx in train:
 			image_names.append(image_idx_to_image_name[image_idx])
 		np.savetxt(output_folder_path + 'train_lables.txt', np.array(image_names), fmt='%s')
 
 		np.savetxt(output_folder_path + 'validation_idx.txt', np.array(validation), fmt='%d')
 		image_names = []
-		for image_idx in test:
+		for image_idx in validation:
 			image_names.append(image_idx_to_image_name[image_idx])
 		np.savetxt(output_folder_path + 'validation_lables.txt', np.array(image_names), fmt='%s')
 
