@@ -13,7 +13,12 @@ Install package 'sklearn, keras, numpy, cv2, matplotlib' as follow:
 Code organization 
 =================
 demo.ipynb -- Run a demo of our code (reproduce Figure 3 of our report)
+
 train.ipynb -- Run the training of our model (as described in Section 2) 
+
 code/backprop.py -- Module implementing backprop
+
 code/visu.py -- Module for visualizing our dataset
+
 assets/model.dat Our model trained as described in Section 4
+
