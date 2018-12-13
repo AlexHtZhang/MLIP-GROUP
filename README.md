@@ -8,6 +8,7 @@ This project is developed with Python codes v3, using Keras as main deep-learnin
 
 Most of the following packages are already installed on DSMLP, if any is missing, please install. 
 Install package 'sklearn, keras, numpy, cv2, matplotlib' as follow: 
+
 `$ pip install --user sklearn keras numpy opencv-contrib-python matplotlib`
 
 Code organization 
