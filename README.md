@@ -1,6 +1,6 @@
 Description 
 ===========
-This is project Human Protein Atlas Image Classification developed by team MLIP-GROUP composed of Chenghao Gong, Changtai, Huaqing Shen, Haotian Zhang.
+This is project Human Protein Atlas Image Classification developed by team MLIP-GROUP composed of Chenghao, Changtai, Huaqing, Haotian.
 
 Requirements 
 ============
