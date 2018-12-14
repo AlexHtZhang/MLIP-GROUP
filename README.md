@@ -8,7 +8,7 @@ Description
 ===========
 This is project Human Protein Atlas Image Classification developed by team MLIP-GROUP composed of Chenghao, Changtai, Huaqing, Haotian.
 
-Convolutional Neural Network (CNN) has been widely used for computer vision tasks like image classification, object localization (bounding box) and image2segmentation today.  CNN’s abilities to extract features in the image,  making the trade-off between globalization and localization and fast parallel computing make it one of the best option for the computer vision task. Auto Encoder (AE), on the other hand, was also a very well studied method not only to reduce the6dimensionality but also to learn the distribution of the data. Therefore, one may wonder can we combine the AE and CNN to gain a better representation of the data? This project aims to find out whether a CNN based AE can benefit the image classification task.
+Convolutional Neural Network (CNN) has been widely used for computer vision tasks like image classification, object localization (bounding box) and image segmentation today.  CNN’s abilities to extract features in the image,  making the trade-off between globalization and localization and fast parallel computing make it one of the best option for the computer vision task. Auto Encoder (AE), on the other hand, was also a very well studied method not only to reduce the6dimensionality but also to learn the distribution of the data. Therefore, one may wonder can we combine the AE and CNN to gain a better representation of the data? This project aims to find out whether a CNN based AE can benefit the image classification task.
 
 Requirements 
 ============
