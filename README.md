@@ -32,12 +32,22 @@ train.ipynb -- Run the training of our model (as described in Section 2)  **TODO
 
 Code organization 
 =================
-demo.ipynb -- Run a demo of our code. **TODO**
 
-train.ipynb -- Run the training of our model (as described in Section 2)  **TODO**
+### .ipynb files for demo and re-train.
+demo.ipynb -- Run a demo of our project. Details please see the **Classification Demo** section above.
 
-assets/model.dat Our model trained as described in Section 4  **TODO**
+train.ipynb -- Re-run the training of our model. Details please see the **Re-train** section above.
 
+### Assets 
+assets/auto_encoder.h5 -- Trained weight for auto-encoder approach from kereas.
+
+assets/multilayer_perceptron_models/ -- Our models trained for all types of proteins based on auto-encoder and multilayer perceptron. 
+
+assets/ResNet18_28outputs_epoch2.pkl -- Trained weight for traditional CNN approach from based on Resnet18 from PyTorch.
+
+assets/figures/ -- Some figures needed in the readme file.
+
+### Code and intermediate files/moduels
 code/one_hot_encoder/ -- Module for one-hot-encoder to prepare and random seperate training/validation/testing dataset.
 
 code/auto_encoder/ -- Module implementing auto-encoder. 
