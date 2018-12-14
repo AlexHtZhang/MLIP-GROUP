@@ -1,6 +1,7 @@
 Human Protein Atlas Image Classification
 ===========
-<img src="assets/figures/readme_header_left.png" alt="original" height="250px" width="250px"> <img src="assets/figures/readme_header_right.png" alt="reconstructed" height="250px" width="250px">
+<img src="assets/figures/readme_header_left.png" alt="original" > <img src="assets/figures/readme_header_right.png" alt="reconstructed">
+
 Orininal protein image (left) vs Auto-encoder reconstructed protein image (right) 
 
 Description 
