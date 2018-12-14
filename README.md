@@ -25,6 +25,7 @@ Classification Demo
 ```
 demo.ipynb -- Run a demo of our code. **TODO**
 ```
+launch-py3torch-gpu-cuda9.sh
 
 Re-train
 =================
