@@ -12,20 +12,24 @@ Convolutional Neural Network (CNN) has been widely used for computer vision task
 
 Requirements 
 ============
-This project is developed with Python codes v3, using Keras as main deep-learning framework for autoencoder based approach and PyTorch as the main deep-learning framework for the resnet based approach. 
+This project is developed with **Python codes v3 and using Keras** as main deep-learning framework for autoencoder based approach and **Python codes v2 PyTorch** as the main deep-learning framework for the resnet based approach. 
 
 Most of the following packages are already installed on DSMLP, if any is missing, please install. 
 Install package 'sklearn, keras, numpy, cv2, matplotlib, pandas, torch' as follow: 
 
 `$ pip install --user sklearn keras numpy opencv-contrib-python matplotlib pandas torch`
 
-
 Classification Demo  
 =================
+To run the demo, 
 ```
 demo.ipynb -- Run a demo of our code. **TODO**
 ```
 launch-py3torch-gpu-cuda9.sh
+launch-py3torch-gpu.sh
+
+launch-pytorch-gpu.sh
+
 
 Re-train
 =================
