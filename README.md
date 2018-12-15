@@ -21,9 +21,19 @@ Install package 'sklearn, keras, numpy, cv2, matplotlib, pandas, torch' as follo
 
 Classification Demo  
 =================
+### Use following commend to clone the folder to your pod
+```
+git clone https://github.com/AlexHtZhang/MLIP-GROUP.git
+```
+Then get into the folder of this repo.
+```
+cd MLIP-GROUP
+```
 
 ### Demo with auto-encoder appraoch demo-launch-py3torch-gpu.ipynb
 Please use **launch-py3torch-gpu.sh** to run the demo of auto-encoder approach. 
+
+Open jupyter notebook demo-launch-py3torch-gpu.ipynb
 ```
 demo-launch-py3torch-gpu.ipynb -- Run a demo of our auto-encoder approach.
 ```
@@ -60,7 +70,7 @@ loading model 25
 loading model 26
 loading model 27
 Predicted labels: 
-['1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Expected labels:  [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
 
 Accuracy: 96.42857142857143%
